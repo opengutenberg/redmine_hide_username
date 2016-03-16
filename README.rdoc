@@ -1,3 +1,5 @@
-= hide_user_name_by_default
+= Hide Username by default
 
-Description goes here
+RHU - Redmine Hide Username is a simple plugin that gives you ability to change username with role wherever is needed in Redmine. This is used to hide names users and change it with role name when this option is required.
+
+It's useful for outsourcing companies that are working with developers hired per project or companies that are interested to protect identity of a certain Redmine user.
